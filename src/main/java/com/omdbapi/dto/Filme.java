@@ -31,4 +31,5 @@ public class Filme {
     private Boolean visto = false;
 
     private Double nota;
+
 }
